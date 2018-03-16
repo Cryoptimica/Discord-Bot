@@ -87,4 +87,4 @@ webshot("https://na.op.gg/summoner/userName=" + name, "image.png", options, () =
 
 });
 
-client.login("MzM4MDMzNDYwNDk1MjUzNTE2.DFPhtA.R1SGpXggrcfW9xbmSRMOrdHju4w");
+client.login("This is where the key would go, but then you could steal the bot lol");
